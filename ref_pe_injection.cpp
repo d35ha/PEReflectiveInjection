@@ -3,6 +3,7 @@
 #include <ntstatus.h>
 #include <stdio.h>
 
+#pragma comment (lib ,"ntdll.lib")
 
 /*
 	BUILD:
